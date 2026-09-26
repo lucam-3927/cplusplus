@@ -1,7 +1,7 @@
 #include <iostream>
 #include "random.h"
 
-
+// Main Function
 int main() 
 {
     std::cout << "Let's play a game. I'm thinking of a number between 1 and 100. You have 7 tries to count what it is." << "\n";
